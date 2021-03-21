@@ -1,0 +1,7 @@
+# Project exclude paths
+/ogs_domain/target/
+/ogs_mapper/target/
+/ogs_service/target/
+/ogs_utils/target/
+/ogs_web_admin/target/
+/ogs_web_user/target/

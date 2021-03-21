@@ -1,0 +1,39 @@
+#left ul{
+				list-style: none;
+			}
+			#side_nav ul{display:none}
+			#left li{
+				margin:20px 0px;
+			}
+			#left .div{
+				width:200px;height: auto;
+				color: #777777;
+				border-bottom: #000000 dotted 1px;
+			}		
+			#left i{
+				right: 0px;
+			}
+			#left a {
+	    	    text-decoration: none;
+	    		color: #777777;
+			}
+			/*正常的未被访问过的链接*/
+			#left a:link {
+			    text-decoration: none;
+			}
+			/*已经访问过的链接*/
+			#left a:visited {
+			    text-decoration: none;
+			}
+			/*鼠标划过(停留)的链接*/
+			#left a:hover {
+			    text-decoration: none;
+			}
+			/* 正在点击的链接，鼠标在元素上按下还没有松开*/
+			#left a:active {
+			    text-decoration: none;
+			}
+			/* 获得焦点的时候 鼠标松开时显示的颜色*/
+			#left a:focus {
+			    text-decoration: none;
+			}
